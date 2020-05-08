@@ -20,4 +20,4 @@ youtube-dl will be used to download the video from youtube
 ffmpeg will convert them to mp3
 
 
-For any issue contact me on discord: Mental#8106
+For any issue contact me on discord: Silvano#8106
